@@ -1,10 +1,10 @@
 /*sample.c*/
 
-/* @wi GHT-509 */
+/* @wi GITH-509 */
 
 int DemoPolarion=1234;
 
-/* @wi GHT-509 */
+/* @wi GITH-509 */
 
 void test1(void)
 {
